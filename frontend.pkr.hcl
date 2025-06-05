@@ -63,3 +63,7 @@ build {
     ]
   }
 }
+Une fois le script terminer j'ai effectué les commandes suivantes afin de voir si tout semble bon : 
+- terraform init
+- terraform plan
+- terraform apply
