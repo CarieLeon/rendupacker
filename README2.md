@@ -134,9 +134,3 @@ systemctl status <nom_du_service>
 - Configuration cohérente et reproductible
 - Gestion centralisée des ressources
 - Gain de temps significatif dans le déploiement
-
-## 📝 Notes
-
-- Assurez-vous de bien sécuriser vos clés SSH
-- Les instances sont déployées dans la région us-west-2
-- Toutes les instances utilisent le type t3.micro pour des coûts optimisés
