@@ -1,4 +1,4 @@
-# rendupacker
+# Rendu Packer
 ```tf
 terraform {
   required_providers {
